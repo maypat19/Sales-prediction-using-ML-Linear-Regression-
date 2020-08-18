@@ -1,1 +1,1 @@
-# Sales-prediction-using-ML-Linear-Regression-
+LINEAR_REGRESSION-sales_predection
